@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" type="image.x-com" href="amoeba.jpg">
+    <link rel="stylesheet" href="{{url_for('static',filename='style.css')}}" media="all">
+    <link rel="stylesheet" href="{{url_for('static',filename='lib/bootstrap-4.0.0-beta.3/css/bootstrap.min.css')}}">
+
+    <script src="{{url_for('static',filename='lib/jquery-3.2.1.min.js')}}"></script>
+    <script src="{{url_for('static',filename='lib/popper.min.js')}}"></script>
+    <script src="{{url_for('static',filename='lib/bootstrap-4.0.0-beta.3/js/bootstrap.min.js')}}"></script>
+
+</head>
+<body style="background:OldLace;">
+<div class="sticky-top">
+        <div class="header">
+        <nav class="navbar navbar-expand-lg navbar-outline-warning bg-Indigo">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+
+      <li class="nav-item dropdown font-size-13">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+         Еще
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="/main_page">Главная страница</a>
+          <a class="dropdown-item" href="/vote_creation">Создать Голосование</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="/User_account">Личный кабинет</a>
+            <a class="dropdown-item" href="/About_us"> О нас</a>
+
+        </div>
+      </li>
+    </ul>
+    <p>{{user_name}}</p>
+      <div class="col-md-4 offset-md-5"></div>
+        <a class="btn btn-outline-warning" href="/login" role="button">Выйти</a>
+    </div>
+</nav>
+        </div>
+</div>
+    </div>
+        </div>
+        </div>
+    <div class="main">
+            <form class="transparent page">
+                        <div class="form-inner">
+                            <h3>Голосование</h3>
+                            <br>
+                            <form action="/vote" method="post">
+                                <label>Автор</label>
+                                <input disabled type="text" value="{{ans_list.author_id}}">
+                            <div class="form-group">
+                                <input disabled type="text" value="{{ ans_list.description }}">
+                            </div>
+                            {% for ans in ans_list.answers %}
+                                <div class="custom-control custom-checkbox">
+                                    <input type="checkbox" class="custom-control-input" id="{{ans.id}}" name="{{ans.id}}" value="{{ans.id}}">
+                                    <label class="custom-control-label" for="{{ans.id}}">
+                                    <input disabled type="text" value="{{ ans.variant }}">
+                                    </label>
+                                </div>
+                            {% endfor %}
+                            <input type="submit" class="btn btn-outline-warning" role="button" value="Завершить голосование">
+
+                            </form>
+                        </div>
+            </form>
+
+    <div class="basement">
+        <p>&#169;Nicholas</p>
+    </div>
+</div>
+
+</body>
+</html>

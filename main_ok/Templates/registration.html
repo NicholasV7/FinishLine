@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Amoeba</title>
+    <link rel="shortcut icon" type="image.x-com" href="amoeba.jpg">
+    <link rel="stylesheet" href="{{url_for('static',filename='style.css')}}" media="all">
+    <link rel="stylesheet" href="{{url_for('static',filename='lib/bootstrap-4.0.0-beta.3/css/bootstrap.min.css')}}">
+
+    <script src="{{url_for('static',filename='lib/jquery-3.2.1.min.js')}}"></script>
+    <script src="{{url_for('static',filename='lib/popper.min.js')}}"></script>
+    <script src="{{url_for('static',filename='lib/bootstrap-4.0.0-beta.3/js/bootstrap.min.js')}}"></script>
+</head>
+
+<body style="background:OldLace;">
+<div class="sticky-top">
+        <div class="header">
+                <div class="row">
+                    <div class="col-md-0"></div>
+                     <a class="btn  btn-outline-warning" href="/main_page" role="button">Главная страница</a>
+                    <div class="col-md-5"></div>
+                     <a class="btn btn-outline-warning" href="/login" role="button">Вход</a>
+                </div>
+        </div>
+
+    </div>
+  <div class="main">
+    <h2>Что бы создать опрос - зарегистрируйтесь</h2>
+    <form action="/registration" method="POST" class="transparent page">
+      <div class="form-inner">
+        <h3>Регистрация</h3>
+        {{ form.hidden_tag() }}
+        <div>{{ form.name.label }}</div>
+        <div>{{ form.name }}</div>
+        {% if form.name.errors %}
+            {% for error in form.name.errors %}
+            <div style="color: red;">{{ error }}</div>
+            {% endfor %}
+        {% endif %}
+        <div>{{ form.login.label }}</div>
+        <div>{{ form.login }}</div>
+        {% if form.login.errors %}
+            {% for error in form.login.errors %}
+            <div style="color: red;">{{ error }}</div>
+            {% endfor %}
+        {% endif %}
+        <div>{{ form.password.label }}</div>
+        <div>{{ form.password }}</div>
+        {% if form.password.errors %}
+            {% for error in form.password.errors %}
+            <div style="color: red;">{{ error }}</div>
+            {% endfor %}
+        {% endif %}
+          <input type="submit" value="Зарегистрироваться">
+      </div>
+    </form>
+      <div class="basement">
+        <p>&#169;Nicholas</p>
+      </div>
+</div>
+
+</body>
+
+</html>

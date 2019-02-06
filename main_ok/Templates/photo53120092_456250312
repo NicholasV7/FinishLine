@@ -1,0 +1,357 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="shortcut icon" href="/images/icons/favicons/fav_logo.ico?6" />
+
+<link rel="apple-touch-icon" href="/images/safari_60.png?1">
+<link rel="apple-touch-icon" sizes="76x76" href="/images/safari_76.png?1">
+<link rel="apple-touch-icon" sizes="120x120" href="/images/safari_120.png?1">
+<link rel="apple-touch-icon" sizes="152x152" href="/images/safari_152.png?1">
+
+<meta http-equiv="content-type" content="text/html; charset=windows-1251" />
+<meta name="description" content="" />
+
+
+<title>Ошибка</title>
+
+<noscript><meta http-equiv="refresh" content="0; URL=/badbrowser.php"></noscript>
+
+<link rel="stylesheet" type="text/css" href="/css/al/common.css?35404692508" /><link rel="stylesheet" type="text/css" href="/css/al/fonts_cnt.css?2889730895" />
+
+<script type="text/javascript">
+var vk = {
+  ads_rotate_interval: 120000,
+  al: parseInt('3') || 4,
+  id: 53120092,
+  intnat: '' ? true : false,
+  host: 'vk.com',
+  lang: 0,
+  rtl: parseInt('') || 0,
+  version: 4825617057213,
+  stDomains: 0,
+  zero: false,
+  contlen: 13091,
+  loginscheme: 'https',
+  ip_h: 'd4fafcc7eb28865f0e',
+  vc_h: '76bb9c657d855893276de4ca99e0ad3d',
+  navPrefix: '/',
+  dt: parseInt('0') || 0,
+  fs: parseInt('13') || 13,
+  ts: 1517158231,
+  tz: 10800,
+  pd: 0,
+  css_dir: '',
+  vcost: 7,
+  time: [2018, 1, 28, 19, 50, 31],
+  sampleUser: -1, spentLastSendTS: new Date().getTime(),
+  a11y: 0,
+  statusExportHash: 'd10f9cd35a5476fe81',
+  audioAdsConfig: {"enabled":true,"sections":["my","user_playlists","group_playlists","my_playlists","recent","audio_feed","recs","recs_audio","recs_album","search","global_search","group_list","user_list","user_wall","group_wall","feed","other"],"day_limit_reached":false},
+  longViewTestGroup: null,
+  cma: 1,
+  postNoEncode: 0,
+
+  pr_tpl: "<div class=\"pr %cls%\" id=\"%id%\"><div class=\"pr_bt\"><\/div><div class=\"pr_bt\"><\/div><div class=\"pr_bt\"><\/div><\/div>",
+
+  audioInlinePlayerTpl: "<div class=\"audio_inline_player _audio_inline_player no_select\">\n  <div class=\"audio_inline_player_right\">\n    <div class=\"audio_inline_player_volume\"><\/div>\n  <\/div>\n  <div class=\"audio_inline_player_left\">\n    <div class=\"audio_inline_player_progress\"><\/div>\n  <\/div>\n<\/div>",
+
+  tnsPixelType: ''
+};
+
+window.locDomain = vk.host.match(/[a-zA-Z]+\.[a-zA-Z]+\.?$/)[0];
+var _ua = navigator.userAgent.toLowerCase();
+if (/opera/i.test(_ua) || !/msie 6/i.test(_ua) || document.domain != locDomain) document.domain = locDomain;
+var ___htest = (location.toString().match(/#(.*)/) || {})[1] || '', ___to;
+___htest = ___htest.split('#').pop();
+if (vk.al != 1 && ___htest.length && ___htest.substr(0, 1) == vk.navPrefix) {
+  if (vk.al != 3 || vk.navPrefix != '!') {
+    ___to = ___htest.replace(/^(\/|!)/, '');
+    if (___to.match(/^([^\?]*\.php|login|mobile)([^a-z0-9\.]|$)/)) ___to = '';
+    location.replace(location.protocol + '//' + location.host + '/' + ___to);
+  }
+}
+
+var StaticFiles = {
+  'cmodules/web/common_web.js' : {v: 1},
+  'common.css' : {v: 35404692508},'fonts_cnt.css' : {v: 2889730895}
+  ,'lang0_0.js':{v:6877},'photos.js':{v:152064977},'photos.css':{v:25237555817},'photoview.js':{v:533491074},'photoview.css':{v:30984976839},'uncommon.css':{v:13805109376},'ny2018.js':{v:1},'ui_common.css':{v:13019448917},'ui_common.js':{v:1723304663},'cmodules/web/page_layout.js':{v:1172409392},'audioplayer.js':{v:4146066701}
+}
+var abp;
+</script>
+
+<link type="text/css" rel="stylesheet" href="/css/al/photos.css?25237555817"></link><link type="text/css" rel="stylesheet" href="/css/al/photoview.css?30984976839"></link><link type="text/css" rel="stylesheet" href="/css/al/uncommon.css?13805109376"></link><link type="text/css" rel="stylesheet" href="/css/al/ui_common.css?13019448917"></link><script type="text/javascript" src="/js/loader_nav4825617057213_0.js"></script><script type="text/javascript" src="/js/cmodules/web/common_web.js?1_54936471471"></script><script type="text/javascript" src="/js/lang0_0.js?6877"></script><script type="text/javascript" src="/js/lib/px.js?ch=1"></script><script type="text/javascript" src="/js/lib/px.js?ch=2"></script><meta name="robots" content="noindex" /><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.vk.com/photo53120092_456250312" /><link rel="alternate" href="android-app://com.vkontakte.android/vkontakte/m.vk.com/photo53120092_456250312" /><script type="text/javascript" src="/js/al/photos.js?152064977"></script><script type="text/javascript" src="/js/al/photoview.js?533491074"></script><script type="text/javascript" src="/js/cmodules/web/ny2018.js?1"></script><script type="text/javascript" src="/js/al/ui_common.js?1723304663"></script><script type="text/javascript" src="/js/cmodules/web/page_layout.js?1172409392"></script><script type="text/javascript" src="/js/cmodules/web/audioplayer.js?4146066701"></script>
+
+</head>
+
+<body onresize="onBodyResize()" class="firefox ">
+  <div id="system_msg" class="fixed"></div>
+  <div id="utils"></div>
+
+  <div id="layer_bg" class="fixed"></div><div id="layer_wrap" class="scroll_fix_wrap fixed layer_wrap"><div id="layer"></div></div>
+  <div id="box_layer_bg" class="fixed"></div><div id="box_layer_wrap" class="scroll_fix_wrap fixed"><div id="box_layer"><div id="box_loader"><div class="pr pr_baw pr_medium" id="box_loader_pr"><div class="pr_bt"></div><div class="pr_bt"></div><div class="pr_bt"></div></div><div class="back"></div></div></div></div>
+
+  <div id="stl_left"></div><div id="stl_side"></div>
+
+  <script type="text/javascript">window.domStarted && domStarted();</script>
+
+  <div class="scroll_fix_wrap _page_wrap" id="page_wrap"><div><div class="scroll_fix">
+  
+
+  <div id="page_header_cont" class="page_header_cont">
+    <div class="back"></div>
+    <div id="page_header_wrap" class="page_header_wrap">
+      <a class="top_back_link" href="" id="top_back_link" onclick="if (nav.go(this, event, {back: true}) === false) { showBackLink(); return false; }" onmousedown="tnActive(this)"></a>
+      <div id="page_header" class="p_head p_head_l0" style="width: 960px">
+        <div class="content">
+          <div id="top_nav" class="head_nav">
+  <div class="head_nav_item fl_l"><a class="top_home_link fl_l " href="/feed" aria-label="На главную" accesskey="1"><div class="top_home_logo"></div></a></div>
+  <div class="head_nav_item fl_l"><div id="ts_wrap" class="ts_wrap" onmouseover="TopSearch.initFriendsList();">
+  <input name="disable-autofill" style="display: none;" />
+  <input type="text" onmousedown="event.cancelBubble = true;" ontouchstart="event.cancelBubble = true;" class="text ts_input" id="ts_input" autocomplete="off" name="disable-autofill" placeholder="Поиск" aria-label="Поиск" />
+</div></div>
+  <div class="head_nav_item fl_l head_nav_btns"><a id="top_notify_btn" class="top_nav_btn" href="/feed?section=notifications" onmouseover="TopNotifier.preload()" onmousedown="return (checkKeyboardEvent(event) ? false : TopNotifier.show(event));" onclick="return (checkEvent(event) ? true : (checkKeyboardEvent(event) ? TopNotifier.show(event) : false));" aria-haspopup="true" accesskey="2">
+  <span class="blind_label">Уведомления</span>
+  <div class="top_nav_btn_icon"></div>
+  <div id="top_notify_count" class="top_notify_count"></div>
+</a><span id="top_audio_layer_place"></span><a id="top_audio" class="top_nav_btn _top_nav_audio_btn" href="/music" onmouseover="AudioLayer.prepare()" onmousedown="" onclick="return checkEvent(event);" aria-label="Аудиоплеер" aria-haspopup="true" accesskey="3">
+  <span class="blind_label">Аудиоплеер</span>
+  <div class="top_nav_btn_icon"></div>
+</a></div>
+  <div class="head_nav_item fl_r"><a id="top_profile_link" class="top_nav_link top_profile_link" href="/itsvlas" onclick="return (checkKeyboardEvent(event) ? TopMenu.clicked : checkEvent)(event);" aria-label="Настройки страницы" aria-haspopup="true" accesskey="4">
+  <span class="blind_label">Настройки страницы</span>
+  <div class="top_profile_name">Аня</div><img class="top_profile_img" src="https://pp.userapi.com/c834200/v834200238/8111b/4jj6JtS8hm0.jpg" alt="Аня" /><div class="top_profile_arrow"></div>
+</a><div id="top_profile_menu" ontouchstart="event.cancelBubble = true;" onmousedown="event.cancelBubble = true;">
+  <a class="top_profile_mrow" id="top_myprofile_link" href="/itsvlas" onclick="return TopMenu.select(this, event);" style="">Моя страница</a>
+  <div class="top_profile_sep" style=""></div>
+  <a class="top_profile_mrow" id="top_edit_link" href="/edit" onclick="return TopMenu.select(this, event);" style="">Редактировать</a>
+  <a class="top_profile_mrow" id="top_settings_link" href="/settings" onclick="return TopMenu.select(this, event);" style="">Настройки</a>
+  <a class="top_profile_mrow" id="top_support_link" href="/support?act=home" onclick="return TopMenu.select(this, event);">Помощь</a>
+  <div class="top_profile_sep" style=""></div>
+  <a class="top_profile_mrow" id="top_logout_link" href="https://login.vk.com/?act=logout&hash=074e0c0870941c509c&reason=tn&_origin=https://vk.com" onclick="if (checkEvent(event) === false) { window.AudioPlayer && AudioPlayer.clearAllCacheKeys(); window.Notifier && Notifier.lcSend('logged_off'); location.href = this.href; return cancelEvent(event); }">Выйти</a>
+</div></div>
+  <div class="head_nav_item_player"><div class="top_audio_player" id="top_audio_player">
+  <button class="top_audio_player_btn top_audio_player_prev" accesskey="j"><div class="blind_label">Предыдущая аудиозапись</div><div class="top_audio_player_btn_icon"></div></button>
+  <button class="top_audio_player_btn top_audio_player_play _top_audio_player_play" accesskey="k"><div class="blind_label _top_audio_player_play_blind_label">Предыдущая аудиозапись</div><div class="top_audio_player_btn_icon"></div></button>
+  <button class="top_audio_player_btn top_audio_player_next" accesskey="l"><div class="blind_label">Следующая аудиозапись</div><div class="top_audio_player_btn_icon"></div></button>
+  <div class="top_audio_player_title_wrap"><div class="top_audio_player_title"></div></div>
+</div></div>
+</div>
+<div id="ts_cont_wrap" class="ts_cont_wrap" ontouchstart="event.cancelBubble = true;" onmousedown="event.cancelBubble = true;"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="page_layout" style="width: 960px;">
+    <div id="side_bar" class="side_bar fl_l " style="">
+      <div id="side_bar_inner" class="side_bar_inner">
+        <nav>
+  <ol>
+    <li id="l_pr" class=""><a href="/itsvlas" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Моя Страница</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_nwsf" class=""><a href="/feed" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Новости</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_msg" class=""><a href="/im" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r"><span class="inl_bl left_count">92</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Сообщения</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_fr" class=""><a href="/friends" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <object type="internal/link"><a href="/friends?section=requests" onclick="nav.link && nav.link('/friends?section=requests', event); cancelEvent(event);" class="left_count_wrap fl_r left_void left_count_wrap_hovered"><span class="inl_bl left_count_sign">0</span></a></object>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Друзья</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_gr" class=""><a href="/groups" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Группы</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_ph" class=""><a href="/albums53120092" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Фотографии</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_aud" class=""><a href="/audios53120092" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Музыка</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_vid" class=""><a href="/video" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Видео</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_ap" class=""><a href="/apps" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r"><span class="inl_bl left_count">36</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Игры</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><div class="more_div l_main"></div><li id="l_mk" class=""><a href="/market" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Товары</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_doc" class=""><a href="/docs" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Документы</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li><li id="l_apm" class=""><a href="/apps?act=manage" onclick="return nav.go(this, event, {noback: true, params: {_ref: 'left_nav'}});" class="left_row">
+    <span class="left_fixer">
+      <span class="left_count_wrap fl_r left_void"><span class="inl_bl left_count_sign">0</span></span>
+      <span class="left_icon fl_l"></span>
+      <span class="left_label inl_bl">Управление</span>
+    </span>
+  </a>
+  <div class="left_settings" onclick="menuSettings(0)">
+  <div class="left_settings_inner"></div>
+</div>
+</li>
+  </ol>
+</nav>
+<div id="left_blocks"></div><div id="ads_left" class="ads_left_empty"></div><div class="left_menu_nav_wrap"><a class="left_menu_nav" href="/blog">Блог</a> <a class="left_menu_nav" href="/dev">Разработчикам</a> <a class="left_menu_nav" href="/ads">Реклама</a> <div class="ui_actions_menu_wrap _ui_menu_wrap " onmouseover="uiActionsMenu.show(this, event, {autopos: true, dy: 6});" onmouseout="uiActionsMenu.hide(this);">
+  <div class="ui_actions_menu_icons"  tabindex="0" aria-label="Действия" role="button" onclick="uiActionsMenu.keyToggle(this, event);"><span class="blind_label">Действия</span><a class="left_menu_nav left_menu_more" id="left_menu_more">Ещё</a></div>
+  <div class="ui_actions_menu _ui_menu" ><a class="ui_actions_menu_item" href="/about">О компании</a><a class="ui_actions_menu_item" href="/jobs">Вакансии</a><a class="ui_actions_menu_item" href="/terms">Правила</a><a class="ui_actions_menu_item" onclick="showBox('lang.php', {act: 'lang_dialog'}, {params: {bodyStyle: 'padding: 0'}, noreload: true})" tabindex="0" role="link">Язык: русский</a></div>
+</div></div>
+      </div>
+    </div>
+
+    <div id="page_body" class="fl_r " style="width: 795px;">
+      <div id="header_wrap2">
+        <div id="header_wrap1">
+          <div id="header" style="display: none">
+            <h1 id="title"></h1>
+          </div>
+        </div>
+      </div>
+      <div id="wrap_between"></div>
+      <div id="wrap3"><div id="wrap2">
+  <div id="wrap1">
+    <div id="content"><div class="message_page page_block">
+  <div class="message_page_title">Ошибка</div>
+  <div class="message_page_body">
+    Ошибка доступа
+    <button class="flat_button message_page_btn" id="msg_back_button">Назад</button>
+  </div>
+</div></div>
+  </div>
+</div></div>
+    </div>
+
+    <div id="footer_wrap" class="footer_wrap fl_r" style="width: 795px;"></div>
+    <div class="clear"></div>
+  </div>
+</div></div><noscript><div style="position:absolute;left:-10000px;">
+<img src="//top-fwz1.mail.ru/counter?id=2579437;pid=53120092;js=na" style="border:0;" height="1" width="1" />
+</div></noscript></div>
+  <div class="progress" id="global_prg"></div>
+
+  <script type="text/javascript">
+    if (parent && parent != window && (browser.msie || browser.opera || browser.mozilla || browser.chrome || browser.safari || browser.iphone)) {
+      document.getElementsByTagName('body')[0].innerHTML = '';
+    } else {
+      window.domReady && domReady();
+      updateMoney(3);
+initPageLayoutUI();
+if (browser.iphone || browser.ipad || browser.ipod) {
+  setStyle(bodyNode, {webkitTextSizeAdjust: 'none'});
+}TopMenu.init();
+initTopAudioPlayer();
+if (0) {
+  hide('support_link_td', 'top_support_link');
+}
+var ts_input = ge('ts_input');
+if (ts_input) {
+  placeholderSetup(ts_input, {back: false, reload: true, phColor: '#8fadc8'});
+}
+TopSearch.init();;window.shortCurrency && shortCurrency();
+window.handlePageParams && handlePageParams({"id":53120092,"no_ads":1,"loc":"photo53120092_456250312","wrap_page":1,"width":960,"width_dec":165,"width_dec_footer":165,"body_class":"firefox ","counters":"0,0,0,92,0,0,0,-1,36,-1,0,-1,0,0,0","pvbig":0,"pvdark":1});addEvent(document, 'click', onDocumentClick);
+addLangKeys({"global_apps":"Приложения","global_friends":"Друзья","global_communities":"Сообщества","head_search_results":"Результаты поиска","global_chats":"Диалоги","global_show_all_results":"Показать все результаты","global_news_search_results":"Результаты поиска в новостях","global_emoji_cat_recent":"Часто используемые","global_emoji_cat_1":"Эмоции","global_emoji_cat_2":"Животные и растения","global_emoji_cat_3":"Жесты и люди","global_emoji_cat_4":"Еда и напитки","global_emoji_cat_5":"Спорт и активности","global_emoji_cat_6":"Путешествия и транспорт","global_emoji_cat_7":"Предметы","global_emoji_cat_8":"Символы","global_emoji_cat_9":"Флаги","stories_remove_warning":"Вы действительно хотите удалить историю?<br>Отменить действие будет невозможно.","stories_remove_confirm":"Да, удалить","stories_answer_placeholder":"Ваше сообщение…","stories_answer_sent":"Сообщение отправлено","stories_blacklist_title":"Скрыты из историй","stories_settings":"Настройки","stories_add_blacklist_title":"Скрытие из историй","stories_add_blacklist_message":"Пользователь останется в друзьях, но истории не будут показываться в новостях.","stories_add_blacklist_button":"Скрыть из историй","stories_add_blacklist_message_group":"Вы останетесь подписчиком сообщества, но истории не будут показываться в новостях.","stories_error_cant_load":"Не удалось загрузить историю.","stories_try_again":"Попробовать ещё раз","stories_error_expired":"Историю можно было посмотреть<br>в течение 24 часов после публикации","stories_error_deleted":"Автор удалил историю","stories_error_private":"Автор скрыл историю","stories_mask_tooltip":"Попробовать эту маску","stories_mask_sent":"Маска отправлена на телефон","stories_followed":"Вы подписались&#33;","stories_unfollowed":"Вы отписались","stories_is_ad":"Реклама","stories_private_story":"Приватная<br>история","stories_deleted_story":"История<br>удалена","stories_bad_browser":"Истории не поддерживаются в Вашем браузере","stories_delete_all_replies_confirm":"Вы действительно хотите удалить все ответы {name} за последние сутки? <br>Отменить действие будет невозможно.","stories_hide_reply_button":"Скрыть ответ","stories_reply_hidden":"Ответ на историю скрыт.","stories_restore":"Восстановить","stories_hide_reply_continue":"Продолжить просмотр","stories_hide_all_replies":["","Скрыть все его ответы за последние сутки","Скрыть все её ответы за последние сутки"],"stories_reply_add_to_blacklist":"Занести в чёрный список","stories_hide_reply_warning":"Вы действительно хотите скрыть этот ответ?<br>Отменить действие будет невозможно.","stories_replies_more_button":["","Показать ещё %s ответившего","Показать ещё %s ответивших","Показать ещё %s ответивших"],"stories_all_replies_hidden":"Все ответы скрыты","stories_ban_confirm":"Вы действительно хотите добавить в чёрный список {name}?<br>Отменить действие будет невозможно.","stories_banned":"Пользователь в чёрном списке","stories_share":"Поделиться","stories_follow":"Подписаться","stories_unfollow":"Отписаться"}, true);
+addTemplates({"_":"_"});
+window.cur = window.cur || {};
+cur['storiesStatHash']="9d98c5824a432a0a33";
+
+window.cur = window.cur || {};
+cur['ny2018Enabled']=false;
+ge('msg_back_button').onclick = function() {
+  history.go(-1);
+};
+  if (!window.__dev) {
+    (new Image).src="https://r3.mail.ru/k?vk_id=53120092&src=desktop";
+  }
+;(function (d, w) {
+if (w.__dev) {
+  return
+}
+var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true;
+ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window);
+    }
+  </script>
+</body>
+
+</html>

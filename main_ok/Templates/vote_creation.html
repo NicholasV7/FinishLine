@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Amoeba</title>
+    <link rel="shortcut icon" type="image.x-com" href="amoeba.jpg">
+    <link rel="stylesheet" href="{{url_for('static',filename='style.css')}}" media="all">
+    <link rel="stylesheet" href="{{url_for('static',filename='lib/bootstrap-4.0.0-beta.3/css/bootstrap.min.css')}}">
+
+    <script src="{{url_for('static',filename='lib/jquery-3.2.1.min.js')}}"></script>
+    <script src="{{url_for('static',filename='lib/popper.min.js')}}"></script>
+    <script src="{{url_for('static',filename='lib/bootstrap-4.0.0-beta.3/js/bootstrap.min.js')}}"></script>
+</head>
+<body style="background:OldLace;">
+<div class="sticky-top">
+        <div class="header">
+        <nav class="navbar navbar-expand-lg navbar-outline-warning bg-Indigo">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+
+      <li class="nav-item dropdown font-size-13">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+         Еще
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="/main_page">Главная страница</a>
+          <a class="dropdown-item disabled" href="/vote_creation">Создать Голосование</a>
+          <a class="dropdown-item " href="/User_account">Личный кабинет</a>
+                      <div class="dropdown-divider"></div>
+
+             <a class="dropdown-item" href="/About_us"> О нас</a>
+
+        </div>
+      </li>
+    </ul>
+    <p>{{user_name}}</p>
+      <div class="col-md-4 offset-md-5"></div>
+        <a class="btn btn-outline-warning" href="/login" role="button">Выйти</a>
+    </div>
+</nav>
+        </div>
+</div>
+    </div>
+        </div>
+        </div>
+    <div class="main">
+            <form class="transparent page" action="/vote_creation" method="POST">
+                        <div class="form-inner">
+                            <h3>Создание голосования</h3>
+                            <div>{{ form.title.label }}</div>
+                            <div>{{ form.title }}</div>
+                            {% if form.title.errors %}
+                                {% for error in form.title.errors %}
+                                <div style="color: red;">{{ error }}</div>
+                                {% endfor %}
+                            {% endif %}
+                            <div>{{ form.description.label }}</div>
+                            <div>{{ form.description }}</div>
+                            <br>
+                            {% if form.description.errors %}
+                                {% for error in form.description.errors %}
+                                <div style="color: red;">{{ error }}</div>
+                                {% endfor %}
+                            {% endif %}
+                             <div>{{ form.radio_checkbox.label }}</div>
+                            <div>{{ form.radio_checkbox(class="custom-select") }}</div>
+                            {% if form.radio_checkbox.errors %}
+                                {% for error in form.radio_checkbox.errors %}
+                                <div style="color: red;">{{ error }}</div>
+                                {% endfor %}
+                            {% endif %}
+                            <br>
+                            {{ form.answers.label }}
+                            {% for answer in form.answers %}
+                                <div>{{ answer.title }}</div>
+                                <div>{{ answer }}</div>
+                                {% if answer.errors %}
+                                    {% for error in answer.errors %}
+                                        <div style="color: red;">{{ error }}</div>
+                                    {% endfor %}
+                                {% endif %}
+                            {% endfor %}
+                            <div class="row">
+                                <div class="col-lg-6">{{ form.add }}</div>
+                                <div class="col-lg-6">{{ form.dela }}</div>
+                            </div>
+                            <input type="submit" value="Отправить">
+
+                        </div>
+            </form>
+
+    <div class="basement">
+        <p>&#169;Nicholas</p>
+    </div>
+</div>
+</body>
+</html>
